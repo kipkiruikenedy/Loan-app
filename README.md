@@ -5,7 +5,6 @@ A customer can view his/her loan history and can request for a loan. database us
 
 A proper session management is done using mongoose session store , which prevents unauthorised access of users.
 
-link to database : -https://mlab.com/databases/loan
 
 
 
